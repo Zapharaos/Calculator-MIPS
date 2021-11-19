@@ -1,0 +1,16 @@
+3
+*
+3
+double
++
+6
+ln
+round
+opp
+float
+reset
++
+3
+pow
+-3
+

@@ -1,0 +1,16 @@
+210
+pgcd
+385
+pgcd
+10
+prime
+facto
+reset
++
+8
+fibo
+modulo
+6
+*
+8
+

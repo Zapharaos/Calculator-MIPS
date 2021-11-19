@@ -1,0 +1,12 @@
+arg integer 
+calculator integer
+24
+calculator float
+24.0
+0.041666668
+0.0
+3.0
+20.085535
+20.0
+4.472136
+1.4960042

@@ -1,0 +1,13 @@
+3
+*
+8
+float
+inv
+reset
++
+3
+expo
+round
+sqrt
+ln
+

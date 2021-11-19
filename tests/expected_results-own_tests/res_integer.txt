@@ -1,0 +1,12 @@
+arg integer 
+calculator integer
+35
+5
+5
+120
+0
+8
+21
+3
+24
+
